@@ -1,5 +1,11 @@
-A personal portfolio site in making
+# A personal portfolio site in making
+
 It consists of :
-My details
-My Projects
-My interests
+1.My details
+2My Projects
+3.My interests
+
+My skills are:
+React
+JavaScript
+Python
